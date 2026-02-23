@@ -8,7 +8,7 @@ $profile = json_decode($data, true);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Osobní IT Profil</title>
+    <title>Osobní IT Profilos</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
